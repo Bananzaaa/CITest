@@ -1,2 +1,2 @@
 fastlane/.env
-Config.xcconfig
+CITest/Config.xcconfig
