@@ -13,8 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print(#function)
+        
+        let config = parseConfig()
+        print("pixabayToken: \(config?.pixabayToken ?? "no value")")
+        print("pixabayURL: \(config?.pixabayURL ?? "no value")")
     }
 
-
 }
+
 

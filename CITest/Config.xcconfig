@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  CITest
+//
+//  Created by Ацкий Станислав on 06.12.2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PIXABAY_TOKEN = 1234
+PIXABAY_URL = PIXABAY_URL
