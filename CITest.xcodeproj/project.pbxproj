@@ -40,6 +40,7 @@
 		791A22F4257D247600D79AD3 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		791A2305257D2D7F00D79AD3 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		791A230A257D2D9600D79AD3 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		791A230F257D370A00D79AD3 /* TestConfig.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = TestConfig.xcconfig; sourceTree = "<group>"; };
 		79ADFF90257CCF88002BFE4C /* CITest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CITest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79ADFF93257CCF88002BFE4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79ADFF95257CCF88002BFE4C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 				79ADFF97257CCF88002BFE4C /* ViewController.swift */,
 				791A230A257D2D9600D79AD3 /* Config.swift */,
 				791A2305257D2D7F00D79AD3 /* Utils.swift */,
+				791A230F257D370A00D79AD3 /* TestConfig.xcconfig */,
 				791A22F4257D247600D79AD3 /* Config.xcconfig */,
 				79ADFF99257CCF88002BFE4C /* Main.storyboard */,
 				79ADFF9C257CCF8A002BFE4C /* Assets.xcassets */,
