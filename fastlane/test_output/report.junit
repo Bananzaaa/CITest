@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites name='CITestTests.xctest' tests='3' failures='0'>
-  <testsuite name='CITestUITests.CITestUITests' tests='2' failures='0'>
-    <testcase classname='CITestUITests.CITestUITests' name='testExample' time='2.649'/>
-    <testcase classname='CITestUITests.CITestUITests' name='testLaunchPerformance' time='0.037'/>
-  </testsuite>
+<testsuites name='CITestUITests.xctest' tests='3' failures='0'>
   <testsuite name='CITestTests.CITestTests' tests='1' failures='0'>
-    <testcase classname='CITestTests.CITestTests' name='testExample' time='0.002'/>
+    <testcase classname='CITestTests.CITestTests' name='testExample' time='0.001'/>
+  </testsuite>
+  <testsuite name='CITestUITests.CITestUITests' tests='2' failures='0'>
+    <testcase classname='CITestUITests.CITestUITests' name='testExample' time='1.897'/>
+    <testcase classname='CITestUITests.CITestUITests' name='testLaunchPerformance' time='0.032'/>
   </testsuite>
 </testsuites>
